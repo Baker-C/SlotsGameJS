@@ -1,1 +1,2 @@
-# GamblingAPI
+# SlotsGameJS
+### A simple JavaScript slots game.
